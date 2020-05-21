@@ -1,0 +1,57 @@
+﻿@page "{id}/{handler?}"
+@model RazorPagesTutorial.Pages.Employee.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Notification Preferences</h1>
+<form method="post" asp-page-handler="OnPostUpdate">
+    <div class="form-check">
+        <input asp-for="Notify" class="form-check-input" />
+        <label asp-for="Notify" class="form-check-label">
+            Update email notification when my details change
+        </label>
+    </div>
+    <button type="submit" class="btn btn-primary">Update Notification Preferences</button>
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+<div class="alert alert-primary">
+    @Model.Message
+</div>
+}
+</form>
+
+<hr />
+<h1>Update Profile</h1>
+
+<form method="post" class="mt-3" enctype="multipart/form-data" asp-page-handler="OnPost">
+    <input hidden asp-for="Employees.ID" />
+
+    <div class="form-group row">
+        <label asp-for="Employees.Name" class="col-sm-2 col-form-lavel"></label>
+        <div class="col-sm-10">
+            <input asp-for="Employees.Name" class="form-controle" placeholder="Name" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="Employees.Email" class="col-sm-2 col-form-lavel"></label>
+        <div class="col-sm-10">
+            <input asp-for="Employees.Email" class="form-controle" placeholder="Email" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="Employees.Department" class="col-sm-2 col-form-lavel"></label>
+        <div class="col-sm-10">
+            <select asp-for="Employees.Department" class="custom-select mr-sm-2" asp-items="Html.GetEnumSelectList<Dept>()">
+                <option value="">Please Select</option>
+            </select>
+       </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-10">
+            <button type="submit" class="btn btn-primary">Update</button>
+            <a asp-page="/Employee/Index" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+</form>
+    

@@ -1,0 +1,12 @@
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/bin/Debug/netstandard2.0/RazorPageTServices.deps.json
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/bin/Debug/netstandard2.0/RazorPageTServices.dll
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/bin/Debug/netstandard2.0/RazorPageTServices.pdb
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/bin/Debug/netstandard2.0/RazorPageTModel.dll
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/bin/Debug/netstandard2.0/RazorPageTModel.pdb
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/obj/Debug/netstandard2.0/RazorPageTServices.csprojAssemblyReference.cache
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/obj/Debug/netstandard2.0/RazorPageTServices.csproj.CoreCompileInputs.cache
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/obj/Debug/netstandard2.0/RazorPageTServices.AssemblyInfoInputs.cache
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/obj/Debug/netstandard2.0/RazorPageTServices.AssemblyInfo.cs
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/obj/Debug/netstandard2.0/RazorPageTServices.csproj.CopyComplete
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/obj/Debug/netstandard2.0/RazorPageTServices.dll
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/obj/Debug/netstandard2.0/RazorPageTServices.pdb

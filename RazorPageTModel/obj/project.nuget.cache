@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K10zN8zE1Eh2uo/7DQwgY2Cu/oNHKof0GINjmGrxo+GQmeUn3nfoEo+7hLUT0bNfMhIgHLodIMQspD96e9NtAw==",
+  "success": true,
+  "projectFilePath": "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/RazorPageTModel.csproj",
+  "expectedPackageFiles": [
+    "/Users/noorisadeq/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/noorisadeq/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

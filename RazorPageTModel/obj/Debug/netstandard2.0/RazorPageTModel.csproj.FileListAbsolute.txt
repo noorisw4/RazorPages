@@ -1,0 +1,9 @@
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/bin/Debug/netstandard2.0/RazorPageTModel.deps.json
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/bin/Debug/netstandard2.0/RazorPageTModel.dll
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/bin/Debug/netstandard2.0/RazorPageTModel.pdb
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/obj/Debug/netstandard2.0/RazorPageTModel.csprojAssemblyReference.cache
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/obj/Debug/netstandard2.0/RazorPageTModel.csproj.CoreCompileInputs.cache
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/obj/Debug/netstandard2.0/RazorPageTModel.AssemblyInfoInputs.cache
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/obj/Debug/netstandard2.0/RazorPageTModel.AssemblyInfo.cs
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/obj/Debug/netstandard2.0/RazorPageTModel.dll
+/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/obj/Debug/netstandard2.0/RazorPageTModel.pdb

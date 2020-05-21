@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/RazorPageTServices.csproj": {}
+  },
+  "projects": {
+    "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/RazorPageTModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/RazorPageTModel.csproj",
+        "projectName": "RazorPageTModel",
+        "projectPath": "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/RazorPageTModel.csproj",
+        "packagesPath": "/Users/noorisadeq/.nuget/packages/",
+        "outputPath": "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/noorisadeq/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/RazorPageTServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/RazorPageTServices.csproj",
+        "projectName": "RazorPageTServices",
+        "projectPath": "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/RazorPageTServices.csproj",
+        "packagesPath": "/Users/noorisadeq/.nuget/packages/",
+        "outputPath": "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTServices/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/noorisadeq/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/RazorPageTModel.csproj": {
+                "projectPath": "/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPageTModel/RazorPageTModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{06C7470F-DD5F-4D9C-9C9D-0C05CA401AB6}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesTutorial" expanded="True">
+            <Node name="RazorPagesTutorial" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="web.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RazorPagesTutorial PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPagesTutorial/Pages/Employee/Edit.cshtml.cs" relfile="RazorPagesTutorial/Pages/Employee/Edit.cshtml.cs" line="49" column="1" />
+      <Breakpoint file="/Users/noorisadeq/Projects/RazorPagesTutorial/RazorPagesTutorial/Pages/Employee/Edit.cshtml.cs" relfile="RazorPagesTutorial/Pages/Employee/Edit.cshtml.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
